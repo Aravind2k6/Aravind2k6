@@ -27,18 +27,13 @@
 <p align="left">
   <a href="https://twitter.com/AravindNelavel1">
     <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-  <p align="left">
-  <a href="https://linkedin.com/in/aravind-nelavelli-851211335" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" height="65"/>
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/aravind_nelavelli_17/" target="_blank">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" height="65"/>
+  <a href="https://linkedin.com/in/aravind-nelavelli-851211335">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-</p>
-</p>
+  <a href="https://www.instagram.com/aravind_nelavelli_17/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
   <a href="mailto:nelavelliaravind@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
