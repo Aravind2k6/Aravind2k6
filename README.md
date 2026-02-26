@@ -14,14 +14,32 @@
 
 
 </p>
-
-### 🌐 Connect with me:
 <p align="left">
 <a href="https://twitter.com/AravindNelavel1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/aravind-nelavelli-851211335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Aravind2k6"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.instagram.com/aravind_nelavelli_17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:nelavelliaravind@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+## 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://twitter.com/AravindNelavel1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" />
+  </a>
+
+  <a href="https://linkedin.com/in/aravind-nelavelli-851211335" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" />
+  </a>
+
+  <a href="https://www.instagram.com/aravind_nelavelli_17/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45" style="background:white; padding:6px; border-radius:10px;" />
+  </a>
+
+  <a href="mailto:nelavelliaravind@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="45" style="background:white; padding:6px; border-radius:10px;" />
+  </a>
 </p>
 
 
