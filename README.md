@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Aravind%20GitHub%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Welcome%20Aravind&fontSize=45&fontColor=00ffcc&animation=fadeIn" />
 
 <h2 align="center">Hi 👋, I'm Aravind</h2>
 <h3 align="center">🎓 Student </h3>
