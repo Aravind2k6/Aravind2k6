@@ -36,4 +36,7 @@
   <img src="https://streak-stats.demolab.com?user=Aravind2k6&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravind2k6&theme=github_dark" />
+
