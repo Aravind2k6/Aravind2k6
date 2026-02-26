@@ -12,27 +12,6 @@
 - 🌱 I’m currently learning **Java, Django, React**  
 - 📫 How to reach me: **nelavelliaravind@gmail.com**
 
-<p align="left">
-
-<a href="https://twitter.com/AravindNelavel1">
-<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aravind-nelavelli-851211335">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aravind2k6">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/aravind_nelavelli_17/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:nelavelliaravind@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-444444?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
