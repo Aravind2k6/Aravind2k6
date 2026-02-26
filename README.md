@@ -24,21 +24,30 @@
 
 ## 🔗 Connect with me:
 
-<p align="left">
-  <a href="https://twitter.com/AravindNelavel1">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-  <p align="left">
-  <a href="https://linkedin.com/in/aravind-nelavelli-851211335" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
+<p align="center">
 
-  <a href="https://www.instagram.com/aravind_nelavelli_17/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-  </a>
-</p>
-  <a href="mailto:nelavelliaravind@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
+<a href="https://twitter.com/AravindNelavel1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/aravind-nelavelli-851211335" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/aravind_nelavelli_17/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:nelavelliaravind@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
 </p>
 
 
