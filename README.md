@@ -30,18 +30,10 @@
 <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,react,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aravind2k6&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aravind2k6&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravind2k6&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Aravind2k6&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
