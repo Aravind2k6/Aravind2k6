@@ -25,23 +25,18 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-
-<a href="https://twitter.com/AravindNelavel1" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="45" style="background-color:#1DA1F2;padding:8px;border-radius:10px;"/>
-</a>
-
-<a href="https://linkedin.com/in/aravind-nelavelli-851211335" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="45" style="background-color:#0A66C2;padding:8px;border-radius:10px;"/>
-</a>
-
-<a href="https://www.instagram.com/aravind_nelavelli_17/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45" style="background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);padding:8px;border-radius:10px;"/>
-</a>
-
-<a href="mailto:nelavelliaravind@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="45" style="background-color:#EA4335;padding:8px;border-radius:10px;"/>
-</a>
-
+  <a href="https://twitter.com/AravindNelavel1">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+  <a href="https://linkedin.com/in/aravind-nelavelli-851211335">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://www.instagram.com/aravind_nelavelli_17/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="mailto:nelavelliaravind@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 
