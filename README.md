@@ -51,6 +51,12 @@
   <img src="https://streak-stats.demolab.com?user=Aravind2k6&theme=tokyonight&hide_border=true" />
 </p>
 
+## 🟢 Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aravind2k6/Aravind2k6/output/pacman-contribution-graph.svg" />
+</p>
+
 ## 📈 Contribution Graph
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aravind2k6&theme=github_dark" />
