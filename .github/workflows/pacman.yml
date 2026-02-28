@@ -1,15 +1,15 @@
 name: Generate Pacman Contribution Graph
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -21,7 +21,8 @@ jobs:
           outputs: |
             output/pacman-contribution-graph.svg
 
-      - uses: EndBug/add-and-commit@v9
+      - name: Commit generated file
+        uses: EndBug/add-and-commit@v9
         with:
           add: "output"
-          message: "Generate pacman graph"
+          message: "Update pacman graph"
