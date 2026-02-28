@@ -54,7 +54,7 @@
 ## 🟢 Contribution Game
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aravind2k6/Aravind2k6/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/Aravind2k6/Aravind2k6/main/output/pacman-contribution-graph.svg" />
 </p>
 
 ## 📈 Contribution Graph
