@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: Aravind2k6
           outputs: |
-            output/pacman-contribution-graph.svg?palette=github-dark
+            output/pacman-contribution-graph.svg?palette=github-dark&animation=play
 
       - uses: EndBug/add-and-commit@v9
         with:
