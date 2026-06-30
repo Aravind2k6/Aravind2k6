@@ -2,13 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=220&section=header&text=Welcome%20to%20Aravind's%20Profile&fontSize=38&fontColor=ffffff&animation=twinkling" />
 
 <h2 align="center">Hi 👋, I'm Aravind</h2>
-<h3 align="center">🎓 Student </h3>
+<h3 align="center">🎓 B.Tech Student </h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Aravind2k6&label=Profile%20views&color=blue&style=flat" />
 </p>
 
-- 🔭 I’m currently working on student projects  
+- 🔭 Interested in  Learning Full Stack Web Development & Building Projects 
 - 🌱 I’m currently learning **Java, Django, React**  
 - 📫 How to reach me: **nelavelliaravind@gmail.com**
 
