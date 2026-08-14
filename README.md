@@ -17,12 +17,12 @@ I'm a Computer Science student passionate about software development and learnin
 * **Languages:** Java, C, C++.
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:** Node.js,Spring Boot 
-* **Database:** MySQL.Postgres SQL
+* **Database:** MySQL,Postgres SQL
 * **Tools:** Git, GitHub, VS Code
 
 ## Projects
 
-* Placment Record tracking
+* Placrment Record tracking
 * Student feedback system
 
 ## Connect With Me
