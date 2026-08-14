@@ -1,18 +1,16 @@
 # Hi 👋, I'm Aravind Nelavelli
 
-### B.Tech CSE Student | Aspiring Software Developer
+### 3rd year B.Tech CSE Student 
 
 I'm a Computer Science student passionate about software development and learning new technologies.
 
-## About Me
+🌱 Currently Learning:
 
-* 🎓 B.Tech Computer Science Engineering Student
-* 💻 Aspiring Software Developer
-* 🌱 Currently learning Java and Cloud Technologies
-* ☁️ Interested in Cloud & Generative AI
-* 🚀 Building projects to improve my development skills
+    Full Stack
+    Spring Boot
+    Cloud Technologies
 
-## Skills
+🛠️ Tech Stack
 
 * **Languages:** Java, C, C++.
 * **Frontend:** HTML, CSS, JavaScript, React
@@ -20,14 +18,14 @@ I'm a Computer Science student passionate about software development and learnin
 * **Database:** MySQL,Postgres SQL
 * **Tools:** Git, GitHub, VS Code
 
-## Projects
+🚀 Projects
 
-* Placrment Record tracking
+* Placement Record tracking
 * Student feedback system
 
-## Connect With Me
+📫 Contact
 
-* **GitHub:** [Aravind2k6](https://github.com/Aravind2k6)
+* **Email:** nelavelliaravind@gmail.com 
 * **LinkedIn:** [Aravind Nelavelli](https://www.linkedin.com/in/aravind-nelavelli-851211335/)
 
 ---
