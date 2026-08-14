@@ -2,13 +2,13 @@
 
 ### 3rd year B.Tech CSE Student 
 
-I'm a Computer Science student passionate about software development and learning new technologies.
+Interested in full stack development and building projects
 
 🌱 Currently Learning:
 
-    Full Stack
-    Spring Boot
-    Cloud Technologies
+* Full Stack
+* Spring Boot
+* Cloud Technologies
 
 🛠️ Tech Stack
 
